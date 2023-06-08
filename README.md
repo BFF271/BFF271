@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tobias Wang</h1>
-<h3 align="center">A Full Stack Engineer from Austria</h3>
 
 <p align="center">
 
